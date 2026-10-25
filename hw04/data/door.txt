@@ -1,0 +1,8 @@
+# Door events
+door
+alarm
+door
+
+window
+abcdefghijklmnop
+
